@@ -1,0 +1,7 @@
+alembic
+asyncpg
+fastapi[all]
+fastapi-users[sqlalchemy]
+gunicorn
+pydub
+python-multipart
